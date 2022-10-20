@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome! I'm a senior researcher (Oberassistent) at [ETH Zurich](https://seg.ethz.ch/people/person-detail.MjEzODc2.TGlzdC80MTUwLC0xNTI1Njk2MTI3.html) and a member of Bedretto Underground Laboratory for Geosciences and Geoenergies ([BedrettoLab](http://www.bedrettolab.ethz.ch/en/home/)) to conduct experiments focused on geothermal energy and earthquake physics. 
+Welcome! I'm a senior researcher (Oberassistent) at [ETH Zurich](https://seg.ethz.ch/people/person-detail.MjEzODc2.TGlzdC80MTUwLC0xNTI1Njk2MTI3.html) and a member of Bedretto Underground Laboratory for Geosciences and Geoenergies ([BedrettoLab](http://www.bedrettolab.ethz.ch/en/home/)), where we conduct in-situ experiments focused on geothermal energy, fault reactivation, and earthquake physics. 
 
 My research focuses on Computational Geomechanics to understand the dynamics of Earth’s deformation. In particular, I develop and apply multi-physics and multi-scale modeling methods to address practically relevant problems in earthquake physics, mechanics of porous media, and geodynamic processes across the scales.
 
