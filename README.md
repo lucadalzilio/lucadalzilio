@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome! I'm a senior researcher (Oberassistent) at [ETH Zurich](https://seg.ethz.ch/people/person-detail.MjEzODc2.TGlzdC80MTUwLC0xNTI1Njk2MTI3.html) and a member of Bedretto Underground Laboratory for Geosciences and Geoenergies ([BedrettoLab](http://www.bedrettolab.ethz.ch/en/home/)), where we conduct in-situ experiments focused on geothermal energy, fault reactivation, and earthquake physics. 
+Welcome! I am an Assistant Professor of Geophysics at Nanyang Technological University ([NTU](https://www.ntu.edu.sg)) in Singapore and a Principal Investigator at the Earth Observatory of Singapore ([EOS](https://earthobservatory.sg)), leading the Computational Geophysics Lab. My research spans across earthquake physics, fault mechanics, mechanics of porous media, lithospheric deformation, and the study of induced seismicity resulting from enhanced geothermal systems and CO2 sequestration.
 
-My research focuses on Computational Geomechanics to understand the dynamics of Earth’s deformation. In particular, I develop and apply multi-physics and multi-scale modeling methods to address practically relevant problems in earthquake physics, mechanics of porous media, and geodynamic processes across the scales.
+I'm also a member of Bedretto Underground Laboratory for Geosciences and Geoenergies ([BedrettoLab](http://www.bedrettolab.ethz.ch/en/home/)), where we conduct in-situ experiments focused on geothermal energy, fault reactivation, and earthquake physics. 
 
 <!--
 **lucadalzilio/lucadalzilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
