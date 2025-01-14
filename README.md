@@ -12,9 +12,9 @@ Beyond research, I bring proven leadership in managing cross-disciplinary teams 
 🌐 <a href="https://www.lucadalzilio.net/">Website</a>  |  💼 <a href="https://www.linkedin.com/in/lucadalzilio/">LinkedIn</a>  |  🐦 <a href="https://x.com/lucadalzilio">X</a>  |  📚 <a href="https://scholar.google.com/citations?user=nvfIto8AAAAJ&hl=en">Google Scholar</a>
 </p>
 
-<p align="center">
+<div align="center">
 &nbsp;![](https://komarev.com/ghpvc/?username=lucadalzilio&color=brightgreen)
-</p>
+</div>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucadalzilio&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
