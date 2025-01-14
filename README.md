@@ -1,20 +1,13 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 
-Welcome! I am an Assistant Professor of Geophysics at Nanyang Technological University ([NTU](https://www.ntu.edu.sg)) in Singapore and a Principal Investigator at the Earth Observatory of Singapore ([EOS](https://earthobservatory.sg)), leading the Computational Geophysics Lab. My research spans across earthquake physics, fault mechanics, mechanics of porous media, lithospheric deformation, and the study of induced seismicity resulting from enhanced geothermal systems and CO2 sequestration.
+<ul>
+  <li>I'm <b>Luca Dal Zilio</b>, an Assistant Professor of Geophysics at <a href="https://www.ntu.edu.sg">NTU</a> and a Principal Investigator at the <a href="https://earthobservatory.sg">Earth Observatory of Singapore</a>.</li>
+  <li>My research focuses on earthquake physics, fault mechanics, and geophysical processes in geothermal systems and CO2 sequestration.</li>
+  <li>Active member of the <a href="http://www.bedrettolab.ethz.ch/en/home/">BedrettoLab</a>, conducting experiments on geothermal energy and fault reactivation.</li>
+</ul>
 
-I'm also a member of Bedretto Underground Laboratory for Geosciences and Geoenergies ([BedrettoLab](http://www.bedrettolab.ethz.ch/en/home/)), where we conduct in-situ experiments focused on geothermal energy, fault reactivation, and earthquake physics. 
+&nbsp;![](https://komarev.com/ghpvc/?username=lucadalzilio&color=brightgreen)
 
-<!--
-**lucadalzilio/lucadalzilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucadalzilio&show_icons=true&locale=en" alt="lucadalzilio" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucadalzilio&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
