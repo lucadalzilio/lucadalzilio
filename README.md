@@ -5,7 +5,7 @@ I'm <b>Luca Dal Zilio</b>, an Assistant Professor of Computational Geophysics at
 </p>
 
 <p align="justify">
-🌐 <a href="https://www.lucadalzilio.net/">Website</a>   |   💼 <a href="https://www.linkedin.com/in/lucadalzilio/">LinkedIn</a>   |   📚 <a href="https://scholar.google.com/citations?user=nvfIto8AAAAJ&hl=en">Google Scholar</a>
+> <a href="https://www.lucadalzilio.net/">Website</a>   |   > <a href="https://www.linkedin.com/in/lucadalzilio/">LinkedIn</a>   |   > <a href="https://scholar.google.com/citations?user=nvfIto8AAAAJ&hl=en">Google Scholar</a>
 </p>
 
 
